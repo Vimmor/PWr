@@ -2,7 +2,7 @@
 #include <iostream>
 #include "Tablica.h"
 int main(){
-	Tablica t;
+	Tablica<int> t;
 	t.wypelnij(100);
 }
 

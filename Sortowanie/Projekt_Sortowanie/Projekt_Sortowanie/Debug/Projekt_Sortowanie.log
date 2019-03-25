@@ -1,2 +1,5 @@
 ﻿  Projekt_Sortowanie.cpp
+  Tablica.cpp
+d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
   Projekt_Sortowanie.vcxproj -> D:\Programowanie\PWr\Sortowanie\Projekt_Sortowanie\Debug\Projekt_Sortowanie.exe

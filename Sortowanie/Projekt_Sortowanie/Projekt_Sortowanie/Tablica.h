@@ -1,11 +1,20 @@
 #ifndef TABLICA_HH
 #define TABLICA_HH
 using namespace std;
+
+template <typename T>
 class Tablica{
-	 int *tab;
+	 T *tab;
 	 int rozmiar;
 public:
-	void wypelnij(int);
-	void wypisz();
+	T operator [](int licz) const {
+		return tab[licz];
+	 }
+	T& operator [](int licz) {
+		return tab[licz];
+	}
+	 void wypelnij(int);
+	 void wypisz();
 };
+
 #endif
