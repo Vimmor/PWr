@@ -1,2 +1,10 @@
-﻿  Projekt_Sortowanie.cpp
+﻿  Tablica.cpp
+d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(212): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(211): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(241): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(284): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(257): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(322): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  d:\programowanie\pwr\sortowanie\projekt_sortowanie\projekt_sortowanie\tablica.cpp(299): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
   Projekt_Sortowanie.vcxproj -> D:\Programowanie\PWr\Sortowanie\Projekt_Sortowanie\Debug\Projekt_Sortowanie.exe
